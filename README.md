@@ -41,6 +41,8 @@
 <a href="#"><img width="" height="175px"  src="https://media.giphy.com/media/BGOPLConDWJ2g/giphy.gif" /></a>
 </p>
 
+<br/>
+
 <p align="center">
     <a href="https://github.com/davidmstanleyjr/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="David's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmstanleyjr
