@@ -70,6 +70,12 @@
 <a href="#"><img width="" height="175px"  src="https://media.giphy.com/media/MOZd7wfLidUze/giphy.gif" /></a>
 </p>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Connect with me:
 
 <p align="left">
