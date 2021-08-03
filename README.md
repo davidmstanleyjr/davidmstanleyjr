@@ -77,7 +77,7 @@
 
 <!--END_SECTION:activity-->
 
-</details> -->
+<!-- </details> -->
 
 ## Connect with me:
 
