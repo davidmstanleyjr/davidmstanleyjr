@@ -52,6 +52,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davidmstanleyjr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)](https://git.io/streak-stats)
 
+<a href="#"><img width="" height="90px" align='right' src="https://media.giphy.com/media/1ooY7EfWBjG4xtXiQN/giphy.gif" height="175px"/></a>
+<br />
+
 ## 📊 My Github Stats
 
 ![David's Github Stats](https://github-readme-stats-sigma-lake.vercel.app/api?username=davidmstanleyjr&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
