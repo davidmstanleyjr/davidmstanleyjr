@@ -33,6 +33,13 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/heroku.png" alt="heroku" width="48" height="48"/> </a> 
     <a href="https://svelte.dev" target="_blank"> <img src="https://img.icons8.com/doodle/48/000000/svetle.png" alt="svelte" width="48" height="48"/> </a>
+    <a href="https://handlebarsjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="48" height="48"/> </a>
+    <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="48" height="48"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="48" height="48"/> </a>
+    <a href="https://socket.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="48" height="48"/> </a>
+    <a href="https://svelte.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg" alt="svelte" width="48" height="48"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="48" height="48"/> </a>
+
 </p>
 
 <br/>
